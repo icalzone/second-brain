@@ -1,4 +1,9 @@
-# EpiServer CMS and Commerce Notes
+# Optimizely CMS and Commerce Notes
+
+### Optimizely documentation
+[Built-in property types](https://docs.developers.optimizely.com/content-management-system/docs/built-in-property-types)
+
+---
 
 - [EpiServer CMS and Commerce Notes](#episerver-cms-and-commerce-notes)
   - [How to override, decorate the default implement of the class in EpiServer](#how-to-override-decorate-the-default-implement-of-the-class-in-episerver)
@@ -28,8 +33,6 @@
     - [Catalog Entry Structure](#catalog-entry-structure)
   - [Metadata system](#metadata-system)
   - [How integrate epi commerce with other systems](#how-integrate-epi-commerce-with-other-systems)
-  - [Payment providers](#payment-providers)
-  - [Custom Shipping Methods](#custom-shipping-methods)
   - [Key points](#key-points)
   - [BusinessManager](#businessmanager)
   - [Dependency Injection](#dependency-injection)
@@ -928,12 +931,6 @@ To design dynamic entity to adapt with all kind of business
 ```
 
 ## How integrate epi commerce with other systems
-
-## Payment providers
-
-Note: Need to import the xml which contains the payment meta class in commerce manager
-
-## Custom Shipping Methods
 
 ## Key points
 
