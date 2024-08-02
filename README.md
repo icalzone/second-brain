@@ -13,6 +13,7 @@
 
 ### Resources
 - [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+- <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown cheat sheet</a>
 
 ## Personal
 - [Travel](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/travel/index.md)
