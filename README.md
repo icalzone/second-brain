@@ -12,7 +12,7 @@
 - [SQL](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/sql/index.md)
 
 ### Resources
-- [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/){:target="_blank"}
+- [Markdown cheat sheet](URL "https://www.markdownguide.org/cheat-sheet/" target="_blank")
 - <a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown cheat sheet</a>
 
 ## Personal
