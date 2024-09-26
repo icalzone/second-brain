@@ -1,0 +1,20 @@
+---
+import CustomerDetailsFieldset from './fieldsets/CustomerDetailsFieldset.astro';
+import DemoFieldset from './fieldsets/DemoFieldset.astro';
+import InterestsFieldset from './fieldsets/InterestsFieldset.astro';
+import PurchaseDetailsFieldset from './fieldsets/PurchaseDetailsFieldset.astro';
+---
+
+<form id="demo-form" action="" method="post">
+  <CustomerDetailsFieldset />
+  <PurchaseDetailsFieldset />
+  <DemoFieldset />
+  <InterestsFieldset />
+
+  <button type="submit">Submit</button>
+</form>
+
+<script>
+  import { init } from '../form-validation/init.js';
+  init();
+</script>

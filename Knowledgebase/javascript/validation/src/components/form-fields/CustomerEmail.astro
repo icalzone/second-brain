@@ -1,0 +1,15 @@
+<label for="customer-email">
+  Email <span aria-hidden="true">(required)</span>
+</label>
+<input
+  id="customer-email"
+  name="customerEmail"
+  class="js-validate"
+  type="email"
+  required
+  minlength="2"
+  aria-describedby="customer-email-error"
+/>
+<p hidden id="customer-email-error" class="error">
+  <!-- Text content via JS -->
+</p>

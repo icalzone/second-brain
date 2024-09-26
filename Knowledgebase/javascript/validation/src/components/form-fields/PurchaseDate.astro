@@ -1,0 +1,21 @@
+---
+import { getISOFormattedDate } from '../../utils/get-iso-formatted-date.js';
+import { yearsAgoFromToday } from '../../utils/years-ago-from-today.js';
+---
+
+<label for="purchase-date">
+  Purchase date (must be within the last 10 years)
+</label>
+<input
+  id="purchase-date"
+  name="purchaseDate"
+  class="js-validate"
+  type="date"
+  min={getISOFormattedDate(yearsAgoFromToday(10))}
+  max={getISOFormattedDate(new Date())}
+  required
+  aria-describedby="purchase-date-error"
+/>
+<p hidden id="purchase-date-error" class="error">
+  <!-- Text content via JS -->
+</p>
