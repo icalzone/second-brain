@@ -7,21 +7,6 @@ author: Rabi Yireh
 
 # The 30 Best ChatGPT Prompts for Software Engineers | by Rabi Yireh | Medium
 
-> ## Excerpt
-> The 30 Best ChatGPT Prompts for Software Engineers
-1. Planning Stage:
-“What are the potential risks and challenges associated with this project?”
-“What is a realistic timeline and budget for …
-
----
-[
-
-![Rabi Yireh](https://miro.medium.com/v2/da:true/resize:fill:32:32/0*KAsTq3OUy4CYcGlD)
-
-
-
-](https://medium.com/@rabiyireh?source=post_page---byline--4d2ced968a08---------------------------------------)
-
 **1\. Planning Stage:**
 
 -   “What are the potential risks and challenges associated with this project?”
