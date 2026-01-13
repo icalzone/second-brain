@@ -4,7 +4,7 @@
 
 - [CMS](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/cms/index.md)
 - [CSS](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/css/index.md)
-- [D365](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/d365/index.md)
+- [D365](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/d365/index.html)
 - [Development](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/dev/index.md)
 - [.NET](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/dotnet/index.md)
 - [Javascript](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/javascript/index.md)
