@@ -1,10 +1,8 @@
 <p align="center">
-<img src="images/windows.jpg" alt="Microsoft Windows Logo" width="500px" />
+<img src="images/windows.jpg" alt="Microsoft Windows Logo" width="300px" />
 </p>
 
-<h1 align="center">Windows Web Developer Setup Guide (2024)</h1>
-
-English | [中文](./README_cn.md)
+<h1 align="center">Windows Web Developer Setup Guide (2026)</h1>
 
 - [🔭 Overview](#-overview)
 - [☑ Prerequisites](#-prerequisites)
@@ -59,17 +57,15 @@ English | [中文](./README_cn.md)
   - [Install the Vets Who Code Extension Pack](#install-the-vets-who-code-extension-pack)
   - [Install the Vets Who Code Theme for VS Code](#install-the-vets-who-code-theme-for-vs-code)
   - [More Extensions](#more-extensions)
-- [🍫 Chocolatey](#-chocolatey)
-  - [Admin Shell](#admin-shell)
-    - [Option 1](#option-1)
-    - [Option 2](#option-2)
-    - [Option 3](#option-3)
-    - [Option 4](#option-4)
-  - [Installing Chocolatey](#installing-chocolatey)
-  - [Basic Chocolatey Commands](#basic-chocolatey-commands)
-  - [Windows Apps](#windows-apps)
 - [🪜 Chrome Extensions](#-chrome-extensions)
-- [🇺🇸 VetsWhoCode Web App](#-vetswhocode-web-app)
+- [Docker](#docker)
+  - [Docker Installation](#docker-installation)
+    - [Option 1](#option-1-1)
+    - [Option 2](#option-2-1)
+    - [Test Docker CLI](#test-docker-cli)
+  - [Docker Basics](#docker-basics)
+    - [Docker CLI](#docker-cli)
+    - [Additional Docker Resources](#additional-docker-resources)
 - [🐍 Python](#-python)
   - [pip](#pip)
   - [venv](#venv)
@@ -83,14 +79,7 @@ English | [中文](./README_cn.md)
 - [💎 Ruby](#-ruby)
   - [Rails](#rails)
   - [Ruby VS Code Extensions](#ruby-vs-code-extensions)
-- [Docker](#docker)
-  - [Docker Installation](#docker-installation)
-    - [Option 1](#option-1-1)
-    - [Option 2](#option-2-1)
-    - [Test Docker CLI](#test-docker-cli)
-  - [Docker Basics](#docker-basics)
-    - [Docker CLI](#docker-cli)
-    - [Additional Docker Resources](#additional-docker-resources)
+
 - [📚 References](#-references)
 
 ## 🔭 Overview
@@ -103,7 +92,7 @@ After a lot of trial and error, I've been able to piece together a pretty respec
 
 ## ☑ Prerequisites
 
-- Windows 10 version 2004 and higher (Build 19041 and higher) or Windows 11 [(Which version do I have?)](https://support.microsoft.com/en-us/topic/628bec99-476a-2c13-5296-9dd081cdd808)
+- Windows 11
 - A [GitHub](https://github.com) account
 
 ## 🐧 WSL
@@ -771,119 +760,7 @@ The number of extensions available for VS Code can be overwhelming, here are som
 Note:
 >You will need to install any VS Code extensions for your Remote - WSL. Extensions already installed locally on VS Code will not automatically be available. [Learn more](https://code.visualstudio.com/docs/remote/wsl#_managing-extensions).
 
-## 🍫 Chocolatey
-
-[Chocolatey](https://community.chocolatey.org/) is a command-line package manager like [homebrew](https://brew.sh/) or [APT](https://ubuntu.com/server/docs/package-management), but for Windows.
-
-### Admin Shell
-
-Before we start the installation process, I want to cover launching an administrative shell from Windows. There are a few ways to do this:
-
-#### Option 1
-
-Right-click on the Windows start menu and select Windows Terminal (Admin):
-
-<p align="center">
-<img src="images/start-menu.png" alt="Right-clicked Windows start menu" />
-</p>
-
-Once your terminal loads, click the `˅` icon and open a new PowerShell tab. It should say `Administrator: Windows PowerShell` in the new tab:
-
-<p align="center">
-<img src="images/adminps.png" alt="Admin PowerShell" width="800px" />
-</p>
-
-#### Option 2
-
-If you have Windows Terminal on your taskbar, <kbd>Shift</kbd> + <kbd>Right-Click</kbd> on the icon select run as administrator, and then open a new PowerShell tab:
-
-<p align="center">
-<img src="images/right-click-admin.png" alt="Right click windows terminal icon" />
-</p>
-
-#### Option 3
-
-Use the search bar from the Start menu and type in `powershell`. A link to Run as Administrator will display:
-
-<p align="center">
-<img src="images/powershell.png" alt="Search powershell from the start menu" width="800px" />
-</p>
-
-#### Option 4
-
-Windows Terminal added a new feature where you can launch a PowerShell/Command Prompt profile in an Admin terminal automatically. In the Windows Terminal settings, scroll down to your desired profile and then toggle the `Run this profile as Administrator` switch. Now you can skip all the steps above, and the terminal will always launch as admin.
-
-<p align="center">
-<img src="images/new-admin.jpg" alt="Automatically launch an admin windows terminal profile" width="800px" />
-</p>
-
-### Installing Chocolatey
-
-1. Open an administrative PowerShell terminal
-
-2. Run the following command:
-
-```ps
-Get-ExecutionPolicy
-```
-
-3. If it returns `Restricted`, then run one of the following commands:
-
-```ps
-Set-ExecutionPolicy AllSigned
-```
-
-or
-
-```ps
-Set-ExecutionPolicy Bypass -Scope Process
-```
-
->With PowerShell, you must ensure `Get-ExecutionPolicy` is not Restricted. We suggest using `Bypass` to bypass the policy to get things installed or `AllSigned` for quite a bit more security.
-
-4. Finally, run the following command:
-
-```ps
-Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
-```
-
-If you don't see any errors, you are ready to use Chocolatey! Type `choco` or `choco -?` now, or see [Getting Started](https://docs.chocolatey.org/en-us/getting-started) for usage instructions.
-
-### Basic Chocolatey Commands
-
-We use the `choco` command to run Chocolatey. (_Remember, you must use an administrative shell for it to work._)
-
-Install a new package:
-
-```ps
-choco install filename
-```
-
-Remove a package:
-
-```ps
-choco uninstall filename
-```
-
-List all of the installed packages:
-
-```ps
-choco list
-```
-
-Update:
-
-```ps
-choco upgrade filename
-```
-
-or to update everything at once:
-
-```ps
-choco upgrade all
-```
-
-### Windows Apps
+## Windows Apps
 
 Search for available apps on the [Community Package Repository](https://community.chocolatey.org/packages).
 
