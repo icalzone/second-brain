@@ -1,7 +1,8 @@
 # Second Brain
 
 ## Install
-- [Windows 11 development environment](https://github.com/icalzone/second-brain/tree/main/windows-install.md)
+- [Windows 11 development environment](https://github.com/icalzone/second-brain/tree/main/developer-install.md)
+- [Work PC install](https://github.com/icalzone/second-brain/tree/main/work-install.md)
 
 ## Development
 
