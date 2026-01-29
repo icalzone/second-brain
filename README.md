@@ -4,6 +4,9 @@
 - [Windows 11 development environment](https://github.com/icalzone/second-brain/tree/main/developer-install.md)
 - [Work PC install](https://github.com/icalzone/second-brain/tree/main/work-install.md)
 
+## Cheat Sheets
+- [C# Razor Syntax Quick Reference](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/c#/C#-Razor-Syntax-Quick-Reference.md)
+
 ## Development
 
 - [AI](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/ai/index.md)
@@ -11,9 +14,7 @@
 - [CMS](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/cms/index.md)
 - [CSS](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/css/index.md)
 - [D365](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/d365/index.html)
-- [Development](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/dev/index.md)
 - [Docker](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/docker/index.md)
-- [.NET](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/dotnet/index.md)
 - [Javascript](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/javascript/index.md)
 - [NodeJs](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/nodejs/index.md)
 - [SQL](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/sql/index.md)
