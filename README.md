@@ -5,7 +5,7 @@
 - [Work PC install](https://github.com/icalzone/second-brain/tree/main/work-install.md)
 
 ## Cheat Sheets
-- [C# Razor Syntax Quick Reference](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/c#/C#-Razor-Syntax-Quick-Reference.md)
+- [C# Razor Syntax Quick Reference](https://github.com/icalzone/second-brain/tree/main/Knowledgebase/csharp/Csharp-Razor-Syntax-Quick-Reference.md)
 
 ## Development
 
