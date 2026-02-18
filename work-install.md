@@ -33,7 +33,12 @@
 
 - Windows Subsystem for Linux - [Install WSL \| Microsoft Learn](https://learn.microsoft.com/en-us/windows/wsl/install)
 
-- Node.js - <https://nodejs.org/en/download/>
+- Node.js - [Download NodeJs](https://nodejs.org/en/download/)
+
+- Python  - [Download Python](https://www.python.org/downloads/)
+
+- Citrix - [How to use Citrix Workspace](https://hypertherm.sharepoint.com/:w:/r/sites/ITSupport/_layouts/15/Doc.aspx?sourcedoc=%7BF31F28EC-1A61-49CA-B745-D1DD118FD309%7D&file=How%20to%20use%20Citrix%20Workspace.docx&action=default&mobileredirect=true&DefaultItemOpen=1)
+  - https://hypertherm.cloud.com/
 
 - Windows Terminal
   - M365 command line
