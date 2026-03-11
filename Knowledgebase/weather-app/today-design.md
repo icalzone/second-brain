@@ -611,3 +611,45 @@ Design the Metric Detail Sheet specifically for Pressure first
 Or move on to redesigning the Daily tab using the same system
 
 Provide your feedback on BizChatShow me the combined pill designCompare the two designs side by sideLet's redesign the Daily tabDrop your files here
+
+
+
+
+
+Great — we’ll **lock that in for Today** ✅
+
+### ✅ Decision captured
+
+*   **Today tab uses the combined metric pill**
+*   Each pill includes **label + value + sparkline in one unit**
+*   Default trio: **Temp · Wind · Pressure**
+*   Tap anywhere on a pill → **metric detail sheet**
+*   No separate metrics row + sparkline row on Today
+
+This gives you:
+
+*   Cleaner vertical rhythm
+*   Strong “instrument panel” feel
+*   A single reusable component you can carry forward to Station, Daily, and Compare later
+
+Nothing else needs to change on Today unless *you* want it to — the rest of the screen can stay exactly as designed.
+
+***
+
+### Natural next steps (whenever you’re ready)
+
+No action required now, but the clean progression would be:
+
+1.  **Daily tab** → decide whether it uses:
+    *   rows with mini sparklines, or
+    *   the same combined pill pattern per day
+2.  **Metric detail sheet polish** → source compare, annotations, gestures
+3.  **Station tab alignment** → reuse the same pill for station metrics
+
+When you want to move on, just say something like:
+
+*   “Let’s do Daily next”
+*   or “Show a Station version of the combined pill”
+*   or “Let’s refine the metric detail sheet UI”
+
+You’re in a very solid place with Today 👍
