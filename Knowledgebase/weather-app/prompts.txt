@@ -1,0 +1,31 @@
+Effective Weather Summary Prompts
+1. General Conversational Summary
+"Acting as a friendly meteorologist, summarize the following weather data into a 3-sentence daily update. Focus on the most important changes (e.g., rain, temperature drops) and include a ‘tip for the day’ regarding clothing or activities: [Insert raw data here]". 
+Medium
+Medium
+ +1
+2. Detailed 5-Day Outlook
+"Review this JSON data for the next 5 days. Create a concise, conversational weather summary for each day, focusing on highs, lows, and precipitation. Format it as a list: [Insert JSON data]". 
+Reddit
+Reddit
+3. Actionable/Outdoor Focus
+"Based on the following forecast, provide a quick summary for someone planning outdoor activities. Highlight the best time of day for being outside and warn of any hazards like high winds or thunderstorms: [Insert weather data]". 
+Medium
+Medium
+Best Practices for Weather Prompts
+Be Specific on Tone: Ask for "friendly," "professional," "concise," or "dramatic" tones.
+Define Length: Limit the response to a word count or number of sentences (e.g., "< 160 characters").
+Include Data Points: Ensure raw data includes temperature (high/low), precipitation probability, wind speed, and humidity.
+Format Constraints: Ask for specific output formats like bullet points, a short paragraph, or JSON. 
+Reddit
+Reddit
+ +4
+Example Prompt + Output
+Prompt: "Summarize this: Location: London, Temp: 
+
+, Rain: 80%, Wind: 20mph. Today's high: 
+
+."
+AI Output: "Expect a dreary day in London with a high of 
+
+ and a 80% chance of rain. Winds will be strong at 20mph, so carry an umbrella and secure loose items."
