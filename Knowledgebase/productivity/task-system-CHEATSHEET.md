@@ -1,10 +1,10 @@
 # Calm Task System — One‑Page Cheat Sheet
 
-## The Rules
+## Core Rules
 - Dates mean dates
 - Flags mean action
 - Backlog is permission to forget
-- Decision before action
+- Decisions before actions
 - Short lists = calm mind
 
 ---
@@ -15,60 +15,64 @@ Inbox → Backlog (no pressure)
 
 ---
 
-## Lists
-- Inbox = capture only
-- Tasks = committed
-- Backlog = someday
-- Active = being worked on
-- Today = due today
-- Upcoming = early warning
+## What Each List Means
+- **Inbox** = capture only
+- **Tasks** = committed, not active yet
+- **Backlog** = ideas, someday, no urgency
+- **Active** = what you are working on now
+- **Today** = due today, fully trusted
+- **Upcoming** = early warning, not demanding
 
 ---
 
 ## Daily Rhythm
-**Morning (2 min)**
-- Open Today
-- Open Active
-- Choose 1–3 outcomes
+
+### Morning (2 minutes)
+- Open **Today**
+- Open **Active**
+- Choose **1–3 outcomes** that would make today successful
 - Unflag everything else if needed
 
-**Later (2–5 min)**
-- Empty Inbox
-- Assign list
-- Add date only if real
+### Daily Review (5–10 minutes)
+- **Reminders Inbox**: move items to Tasks / Bills / Backlog
+- Add dates only if real
+- Flag only if actively working
+- **Mail intake**: scan for requests or commitments
+  - Capture actions into Reminders Inbox
+  - Link back to the email if helpful
+  - Do not manage tasks from Mail
 
 ---
 
-## Weekend Mode (Tiny Shift)
-- Active may be **0–3 items**
-- Dates only for real commitments
-- Backlog untouched on purpose
-
-> Weekdays optimize momentum. Weekends optimize ease.
-
----
-
-## Weekly Reset
-- Active ≤7
+## Weekly Reset (10–15 minutes)
+- Reset Active (≤7 items)
 - Scan Upcoming
+- Quick Calendar glance (next 7–10 days)
 - Promote 1–3 Backlog items
 - Check Bills
 
 ---
 
-## Monthly Reset
+## Monthly Trust Reset (5–10 minutes)
 - Prune Tasks
 - Remove guilt from Backlog
 - Push fake dates
-- Reset flags
+- Unflag everything, then re‑flag what’s real
+
+---
+
+## Automation (Apple Shortcuts)
+- Automate **capture and linking**, never decisions
+- Shortcuts may create reminders, notes, links, or add `#scheduled`
+- If a shortcut feels controlling or confusing, delete it
 
 ---
 
 ## When This Breaks
-- Overwhelmed → Unflag to 3
-- Too many flags → Missed a decision
-- Noisy Today → Fake dates
-- Heavy Backlog → Working as designed
+- Overwhelmed → Unflag everything except 3
+- Too many flags → You skipped a decision
+- Noisy Today → Fake dates were added
+- Heavy Backlog → It’s doing its job
 
 ---
 
