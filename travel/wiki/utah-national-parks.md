@@ -52,4 +52,4 @@ Minimum recommendation: **7 days** (one day per park). To hike more and feel rel
 ## Related
 - [[national-park-road-trips]] — US national parks road trip overview
 - [[national-park-timing]] — Best months for each park
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

@@ -44,4 +44,4 @@ Yellowstone has two main loops:
 ## Related
 - [[national-park-road-trips]] — Yellowstone is part of a Northern Rockies road trip
 - [[national-park-timing]] — Best months to visit Yellowstone
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

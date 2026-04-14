@@ -4,7 +4,7 @@ This is a cross-reference entry. The SwiftUI knowledge base is maintained in the
 
 ## Quick Links
 
-- [swiftui/wiki/INDEX](../../swiftui/wiki/INDEX.md) — SwiftUI wiki home
+- [swiftui/wiki/README](../../swiftui/wiki/README.md) — SwiftUI wiki home
 - [swiftui/wiki/viewmodifier](../../swiftui/wiki/viewmodifier.md) — The ViewModifier pattern: reusable, composable UI modifier bundles
 
 ## Summary
@@ -30,4 +30,4 @@ extension View {
 
 ## Related
 - [[swiftui/wiki/viewmodifier]] — Full article
-- [[INDEX]] — Development wiki home
+- [[README]] — Development wiki home

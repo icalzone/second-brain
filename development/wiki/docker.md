@@ -109,4 +109,4 @@ docker volume prune         # remove unused volumes
 
 ## Related
 - [[windows/wiki/developer-setup]] — Docker installation on Windows (Docker Desktop vs. WSL2)
-- [[INDEX]] — Development wiki home
+- [[README]] — Development wiki home

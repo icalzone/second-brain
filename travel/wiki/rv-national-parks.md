@@ -62,4 +62,4 @@ The most visited park in the US — and free to enter. Elkmont, Smokemont, Cosby
 - [[great-smoky-mountains]] — Smokies detail
 - [[utah-national-parks]] — Utah Mighty Five
 - [[national-park-timing]] — Best months for each park
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

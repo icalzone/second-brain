@@ -47,4 +47,4 @@ Texas offers a remarkable variety of national parks and historic sites, from vas
 ## Related
 - [[national-park-road-trips]] — US national parks road trip overview
 - [[national-park-timing]] — Best months to visit
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

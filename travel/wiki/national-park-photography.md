@@ -54,4 +54,4 @@ These parks combine well with road trips — see:
 ## Related
 - [[photography/smartphone-photography]] — Camera technique for capturing these parks
 - [[national-park-road-trips]] — Route planning
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

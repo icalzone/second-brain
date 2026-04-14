@@ -6,14 +6,14 @@ A personal, multi-topic knowledge base designed to grow with whatever I'm learni
 
 | Folder | Topic | Wiki |
 |---|---|---|
-| [windows/](windows/) | Windows 11 installs & configuration | [windows/wiki/INDEX.md](windows/wiki/INDEX.md) |
-| [development/](development/) | Web development, SwiftUI, C#, .NET, Docker, testing, tools | [development/wiki/INDEX.md](development/wiki/INDEX.md) |
-| [swiftui/](swiftui/) | SwiftUI & iOS development | [swiftui/wiki/INDEX.md](swiftui/wiki/INDEX.md) |
-| [travel/](travel/) | U.S. national park road trips, RV travel, photography parks | [travel/wiki/INDEX.md](travel/wiki/INDEX.md) |
-| [photography/](photography/) | Smartphone photography techniques, settings, apps | [photography/wiki/INDEX.md](photography/wiki/INDEX.md) |
-| [productivity/](productivity/) | Task management system, Apple Shortcuts automation | [productivity/wiki/INDEX.md](productivity/wiki/INDEX.md) |
+| [windows/](windows/) | Windows 11 installs & configuration | [windows/wiki/README.md](windows/wiki/README.md) |
+| [development/](development/) | Web development, SwiftUI, C#, .NET, Docker, testing, tools | [development/wiki/README.md](development/wiki/README.md) |
+| [swiftui/](swiftui/) | SwiftUI & iOS development | [swiftui/wiki/README.md](swiftui/wiki/README.md) |
+| [travel/](travel/) | U.S. national park road trips, RV travel, photography parks | [travel/wiki/README.md](travel/wiki/README.md) |
+| [photography/](photography/) | Smartphone photography techniques, settings, apps | [photography/wiki/README.md](photography/wiki/README.md) |
+| [productivity/](productivity/) | Task management system, Apple Shortcuts automation | [productivity/wiki/README.md](productivity/wiki/README.md) |
 | [apple/](apple/) | iPhones, Mac, iOS shortcuts | *(wiki coming soon)* |
-| [finance/](finance/) | Personal finance notes and tools | *(wiki coming soon)* |
+| [finance/](finance/) | Personal finance notes and tools | [finance/wiki/README.md](finance/wiki/README.md) |
 
 ## How It's Organized
 
@@ -27,7 +27,7 @@ Each topic folder contains:
 - Every topic gets its own `.md` file in `wiki/`
 - Every wiki file starts with a one-paragraph summary
 - Related topics are linked using `[[topic-name]]` format
-- Each `wiki/` folder has an `INDEX.md` listing all articles
+- Each `wiki/` folder has a `README.md` listing all articles
 
 ## Wiki Highlights
 

@@ -60,4 +60,4 @@ Many popular parks now require advance reservations or timed entry permits durin
 - [[utah-national-parks]] — Timing for the Mighty Five
 - [[yellowstone]] — Yellowstone one-day planning
 - [[great-smoky-mountains]] — Smokies timing and crowds
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

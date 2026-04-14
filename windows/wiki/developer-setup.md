@@ -133,4 +133,4 @@ VS Code extensions: Python, Pylance, Jupyter
 
 ## Related
 - [[work-setup]] — Work machine configuration
-- [[INDEX]] — Windows wiki home
+- [[README]] — Windows wiki home

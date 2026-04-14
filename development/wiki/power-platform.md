@@ -98,4 +98,4 @@ Xrm.Page.getAttribute().forEach(a => {
 
 ## Related
 - [[optimizely-cms]] — CMS platform development (separate from Power Platform)
-- [[INDEX]] — Development wiki home
+- [[README]] — Development wiki home

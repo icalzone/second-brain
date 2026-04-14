@@ -131,4 +131,4 @@ Build these in order:
 
 ## Related
 - [[task-system]] — The full task system these shortcuts support
-- [[INDEX]] — Productivity wiki home
+- [[README]] — Productivity wiki home

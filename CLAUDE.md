@@ -28,10 +28,10 @@ A personal, multi-topic knowledge base designed to grow with whatever you're lea
 - Every topic gets its own `.md` file in `wiki/`
 - Every wiki file starts with a one-paragraph summary
 - Link related topics using `[[topic-name]]` format
-- Maintain an `INDEX.md` in each `wiki/` folder listing every article with a one-line description
+- Maintain a `README.md` in each `wiki/` folder listing every article with a one-line description
 - When new raw sources are added, update the relevant wiki articles
 - Create or maintain a root-level README.md file to act as an index for the github repo.
-- Organize and link all topic INDEX.md files to the README.md
+- Organize and link all topic README.md files to the top level README.md
 
 ## My Interests
 - Development

@@ -103,4 +103,4 @@ When working in Optimizely CMS, images are typically served through media conten
 ## Related
 - [[javascript]] — JS optimization (complements image performance)
 - [[optimizely-cms]] — CMS image handling
-- [[INDEX]] — Development wiki home
+- [[README]] — Development wiki home

@@ -74,4 +74,4 @@ The Smokies are one of the **9 most scenic national parks for photography** (see
 - [[national-park-road-trips]] — The Smokies are part of the Blue Ridge road trip
 - [[national-park-photography]] — Smokies ranked in top 9 photography parks
 - [[national-park-timing]] — Best months to visit
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home

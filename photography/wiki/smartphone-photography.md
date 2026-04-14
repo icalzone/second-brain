@@ -77,5 +77,5 @@ Centering is fine for converging lines (a dock, a road, a hallway) — then brea
 - [How to improve your smartphone photography](https://www.engadget.com/cameras/how-to-improve-your-smartphone-photography-010037588.html) — Steve Dent, Engadget (Oct 2025)
 
 ## Related
-- [[INDEX]] — Photography wiki home
+- [[README]] — Photography wiki home
 - [[travel/national-park-photography]] — Best national parks for photography

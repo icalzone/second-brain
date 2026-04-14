@@ -137,4 +137,4 @@ const frog = new FrogBuilder('Kermit', 'male')
 ## Related
 - [[testing]] — JavaScript error debugging in context
 - [[web-images]] — Image optimization alongside JS optimization
-- [[INDEX]] — Development wiki home
+- [[README]] — Development wiki home

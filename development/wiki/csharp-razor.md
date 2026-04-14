@@ -47,7 +47,7 @@ See also `development/raw/patterns-in-action.md` for design patterns including:
 ## Related
 - [[optimizely-cms]] — Razor is used extensively in Optimizely/Episerver view development
 - [[javascript]] — Front-end complement to Razor back-end views
-- [[INDEX]] — Development wiki home
+- [[README]] — Development wiki home
 
 ## Sources
 - `development/raw/Csharp-Razor-Syntax-Quick-Reference.md` — from haacked.com (2011, still relevant)

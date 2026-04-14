@@ -83,4 +83,4 @@ A checklist-style reference for setting up a corporate Windows 11 machine with a
 
 ## Related
 - [[developer-setup]] — Personal/web developer setup guide
-- [[INDEX]] — Windows wiki home
+- [[README]] — Windows wiki home

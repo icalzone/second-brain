@@ -98,4 +98,4 @@ The task system is for **execution**. The Second Brain (this repo) is for **thin
 
 ## Related
 - [[apple-shortcuts-recipes]] — Shortcut recipes for this system
-- [[INDEX]] — Productivity wiki home
+- [[README]] — Productivity wiki home

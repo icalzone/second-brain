@@ -49,4 +49,4 @@ The United States offers countless road trip routes through its national parks �
 - [[great-smoky-mountains]] — Deep dive on the Smokies
 - [[yellowstone]] — One-day itinerary guide
 - [[national-park-timing]] — Best months to visit
-- [[INDEX]] — Travel wiki home
+- [[README]] — Travel wiki home
