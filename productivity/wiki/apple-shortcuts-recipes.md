@@ -130,5 +130,5 @@ Build these in order:
 - `productivity/raw/task-system-FULL.md`
 
 ## Related
-- [[task-system]] — The full task system these shortcuts support
-- [[README]] — Productivity wiki home
+- [task-system](task-system.md) — The full task system these shortcuts support
+- [README](README.md) — Productivity wiki home

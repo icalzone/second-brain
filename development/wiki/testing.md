@@ -146,7 +146,7 @@ See `development/raw/Ideal Practices for playwright automation testing with code
 
 ## JavaScript Error Debugging
 
-See [[javascript]] for the full error type reference. Quick debugging checklist:
+See [javascript](javascript.md) for the full error type reference. Quick debugging checklist:
 
 1. Read the **error type** (TypeError, ReferenceError, etc.)
 2. Read the **stack trace** — click the file:line link in DevTools
@@ -168,6 +168,6 @@ See `development/raw/validation/` for form and data validation patterns.
 - `development/raw/Ideal Practices for playwright automation testing with code snippets/`
 
 ## Related
-- [[javascript]] — JS error types and patterns
-- [[optimizely-cms]] — Application Insights for production monitoring
-- [[README]] — Development wiki home
+- [javascript](javascript.md) — JS error types and patterns
+- [optimizely-cms](optimizely-cms.md) — Application Insights for production monitoring
+- [README](README.md) — Development wiki home

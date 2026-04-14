@@ -94,13 +94,13 @@ Always set `width` and `height` attributes to prevent layout shift (CLS):
 
 When working in Optimizely CMS, images are typically served through media content properties. For performance:
 - Use ImageResizer or similar middleware to serve correctly sized images
-- Store originals in blob storage (see [[optimizely-cms]])
+- Store originals in blob storage (see [optimizely-cms](optimizely-cms.md))
 - Apply compression at the CDN layer
 
 ## Sources
 - `development/raw/The Ultimate Guide to Website Images 2023/`
 
 ## Related
-- [[javascript]] — JS optimization (complements image performance)
-- [[optimizely-cms]] — CMS image handling
-- [[README]] — Development wiki home
+- [javascript](javascript.md) — JS optimization (complements image performance)
+- [optimizely-cms](optimizely-cms.md) — CMS image handling
+- [README](README.md) — Development wiki home

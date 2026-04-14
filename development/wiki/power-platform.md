@@ -97,5 +97,5 @@ Xrm.Page.getAttribute().forEach(a => {
 - `development/raw/Level Up God Mode.md`
 
 ## Related
-- [[optimizely-cms]] — CMS platform development (separate from Power Platform)
-- [[README]] — Development wiki home
+- [optimizely-cms](optimizely-cms.md) — CMS platform development (separate from Power Platform)
+- [README](README.md) — Development wiki home

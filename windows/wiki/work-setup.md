@@ -82,5 +82,5 @@ A checklist-style reference for setting up a corporate Windows 11 machine with a
 - `windows/raw/work-install.md` — Work machine software checklist
 
 ## Related
-- [[developer-setup]] — Personal/web developer setup guide
-- [[README]] — Windows wiki home
+- [developer-setup](developer-setup.md) — Personal/web developer setup guide
+- [README](README.md) — Windows wiki home

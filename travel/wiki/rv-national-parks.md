@@ -30,7 +30,7 @@ The only national park in New England. Ocean Path, Cadillac Mountain (first to s
 
 ## 6. Zion National Park (UT)
 
-Cathedral-like sandstone canyons. Note: private vehicles are restricted in the main canyon — park at the Visitor Center and use the free shuttle. South Campground and Watchman Campground for RVs (recreation.gov). See [[utah-national-parks]] for full Utah itinerary.
+Cathedral-like sandstone canyons. Note: private vehicles are restricted in the main canyon — park at the Visitor Center and use the free shuttle. South Campground and Watchman Campground for RVs (recreation.gov). See [utah-national-parks](utah-national-parks.md) for full Utah itinerary.
 
 ## 7. Rocky Mountain National Park (CO)
 
@@ -46,7 +46,7 @@ One of the most remote and uncrowded parks. Rio Grande border scenery, desert, a
 
 ## 10. Great Smoky Mountains National Park (TN/NC)
 
-The most visited park in the US — and free to enter. Elkmont, Smokemont, Cosby campgrounds for RVs. See [[great-smoky-mountains]] for full details.
+The most visited park in the US — and free to enter. Elkmont, Smokemont, Cosby campgrounds for RVs. See [great-smoky-mountains](great-smoky-mountains.md) for full details.
 
 ## General RV Tips
 - Book campgrounds 6 months in advance for summer peak season
@@ -58,8 +58,8 @@ The most visited park in the US — and free to enter. Elkmont, Smokemont, Cosby
 - [10 Must-See National Parks When RVing Through the USA](https://tripmemos.com/rving-through-the-national-parks/) — Maria Mikaella Maglangit (Dec 2023)
 
 ## Related
-- [[yellowstone]] — One-day itinerary
-- [[great-smoky-mountains]] — Smokies detail
-- [[utah-national-parks]] — Utah Mighty Five
-- [[national-park-timing]] — Best months for each park
-- [[README]] — Travel wiki home
+- [yellowstone](yellowstone.md) — One-day itinerary
+- [great-smoky-mountains](great-smoky-mountains.md) — Smokies detail
+- [utah-national-parks](utah-national-parks.md) — Utah Mighty Five
+- [national-park-timing](national-park-timing.md) — Best months for each park
+- [README](README.md) — Travel wiki home

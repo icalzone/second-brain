@@ -56,8 +56,8 @@ Many popular parks now require advance reservations or timed entry permits durin
 - [Best Months to Visit Each National Park (With Calendar)](https://www.travel-experience-live.com/best-months-to-visit-national-parks-calendar/) — Bram Reusen (Jul 2023)
 
 ## Related
-- [[national-park-road-trips]] — Route planning overview
-- [[utah-national-parks]] — Timing for the Mighty Five
-- [[yellowstone]] — Yellowstone one-day planning
-- [[great-smoky-mountains]] — Smokies timing and crowds
-- [[README]] — Travel wiki home
+- [national-park-road-trips](national-park-road-trips.md) — Route planning overview
+- [utah-national-parks](utah-national-parks.md) — Timing for the Mighty Five
+- [yellowstone](yellowstone.md) — Yellowstone one-day planning
+- [great-smoky-mountains](great-smoky-mountains.md) — Smokies timing and crowds
+- [README](README.md) — Travel wiki home

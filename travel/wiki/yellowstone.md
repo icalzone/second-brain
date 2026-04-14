@@ -42,6 +42,6 @@ Yellowstone has two main loops:
 - [How to Enjoy Yellowstone in One Day](https://tripmemos.com/enjoying-yellowstone-in-one-day/) — Maria Mikaella Maglangit (Dec 2023)
 
 ## Related
-- [[national-park-road-trips]] — Yellowstone is part of a Northern Rockies road trip
-- [[national-park-timing]] — Best months to visit Yellowstone
-- [[README]] — Travel wiki home
+- [national-park-road-trips](national-park-road-trips.md) — Yellowstone is part of a Northern Rockies road trip
+- [national-park-timing](national-park-timing.md) — Best months to visit Yellowstone
+- [README](README.md) — Travel wiki home

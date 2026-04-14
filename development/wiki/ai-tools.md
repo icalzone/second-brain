@@ -101,6 +101,6 @@ From `development/raw/Claude Code Cheat Sheet.pdf` — quick reference for using
 - `development/raw/Claude Code Cheat Sheet.pdf`
 
 ## Related
-- [[testing]] — Use AI tools to generate test cases
-- [[javascript]] — Prompt patterns for JS debugging
-- [[README]] — Development wiki home
+- [testing](testing.md) — Use AI tools to generate test cases
+- [javascript](javascript.md) — Prompt patterns for JS debugging
+- [README](README.md) — Development wiki home

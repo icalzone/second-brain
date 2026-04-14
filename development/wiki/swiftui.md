@@ -29,5 +29,5 @@ extension View {
 ```
 
 ## Related
-- [[swiftui/wiki/viewmodifier]] — Full article
-- [[README]] — Development wiki home
+- [swiftui/wiki/viewmodifier](../../swiftui/wiki/viewmodifier.md) — Full article
+- [README](README.md) — Development wiki home

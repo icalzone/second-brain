@@ -44,14 +44,14 @@ Nine of the most scenic U.S. national parks for photography — ranked for drama
 ## Photography + Travel Overlap
 
 These parks combine well with road trips — see:
-- [[utah-national-parks]] — Zion and Arches for photography
-- [[great-smoky-mountains]] — Smokies photography in depth
-- [[yellowstone]] — Yellowstone one-day guide
+- [utah-national-parks](utah-national-parks.md) — Zion and Arches for photography
+- [great-smoky-mountains](great-smoky-mountains.md) — Smokies photography in depth
+- [yellowstone](yellowstone.md) — Yellowstone one-day guide
 
 ## Sources
 - [9 Most Scenic U.S. National Parks for Stunning Photography](https://tripmemos.com/national-parks-photography/) — Carmela Kris Armilla (Nov 2023)
 
 ## Related
-- [[photography/smartphone-photography]] — Camera technique for capturing these parks
-- [[national-park-road-trips]] — Route planning
-- [[README]] — Travel wiki home
+- [photography/smartphone-photography](../../photography/wiki/smartphone-photography.md) — Camera technique for capturing these parks
+- [national-park-road-trips](national-park-road-trips.md) — Route planning
+- [README](README.md) — Travel wiki home

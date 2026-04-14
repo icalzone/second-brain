@@ -53,7 +53,7 @@ Great Smoky Mountains National Park spans over 500,000 acres across North Caroli
 
 ## Photography at the Smokies
 
-The Smokies are one of the **9 most scenic national parks for photography** (see [[national-park-photography]]). Best opportunities:
+The Smokies are one of the **9 most scenic national parks for photography** (see [national-park-photography](national-park-photography.md)). Best opportunities:
 - **Fall foliage** — late October in the lower elevations; early October at higher elevations
 - **Early morning mist** from any overlook
 - **Waterfalls** — long exposures create silky effect (use a tripod)
@@ -71,7 +71,7 @@ The Smokies are one of the **9 most scenic national parks for photography** (see
 - [10 Must-See Waterfalls in the Great Smoky Mountains](https://tripmemos.com/waterfalls-great-smoky-mountains/) — Carmela Kris Armilla (Jan 2024)
 
 ## Related
-- [[national-park-road-trips]] — The Smokies are part of the Blue Ridge road trip
-- [[national-park-photography]] — Smokies ranked in top 9 photography parks
-- [[national-park-timing]] — Best months to visit
-- [[README]] — Travel wiki home
+- [national-park-road-trips](national-park-road-trips.md) — The Smokies are part of the Blue Ridge road trip
+- [national-park-photography](national-park-photography.md) — Smokies ranked in top 9 photography parks
+- [national-park-timing](national-park-timing.md) — Best months to visit
+- [README](README.md) — Travel wiki home

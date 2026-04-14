@@ -6,8 +6,8 @@ A reference for personal task management, knowledge organization, and Apple auto
 
 | Article | Description |
 |---|---|
-| [[task-system]] | A calm, low-friction task and knowledge system built on Apple Reminders + a Second Brain |
-| [[apple-shortcuts-recipes]] | Concrete Apple Shortcuts recipes to automate capture and linking (without automating decisions) |
+| [task-system](task-system.md) | A calm, low-friction task and knowledge system built on Apple Reminders + a Second Brain |
+| [apple-shortcuts-recipes](apple-shortcuts-recipes.md) | Concrete Apple Shortcuts recipes to automate capture and linking (without automating decisions) |
 
 ## Related Topics
-- [[apple]] — iPhones, Mac, and iOS shortcuts integrate deeply with this system
+- [apple wiki](../../apple/wiki/README.md) — iPhones, Mac, and iOS shortcuts integrate deeply with this system

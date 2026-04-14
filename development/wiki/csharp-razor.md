@@ -41,13 +41,13 @@ Razor allows you to mix C# server-side code with HTML using the `@` symbol.
 ## C# Patterns in Action
 
 See also `development/raw/patterns-in-action.md` for design patterns including:
-- **Builder Pattern** — `FrogBuilder` example (also in [[javascript]])
+- **Builder Pattern** — `FrogBuilder` example (also in [javascript](javascript.md))
 - Additional design pattern examples
 
 ## Related
-- [[optimizely-cms]] — Razor is used extensively in Optimizely/Episerver view development
-- [[javascript]] — Front-end complement to Razor back-end views
-- [[README]] — Development wiki home
+- [optimizely-cms](optimizely-cms.md) — Razor is used extensively in Optimizely/Episerver view development
+- [javascript](javascript.md) — Front-end complement to Razor back-end views
+- [README](README.md) — Development wiki home
 
 ## Sources
 - `development/raw/Csharp-Razor-Syntax-Quick-Reference.md` — from haacked.com (2011, still relevant)

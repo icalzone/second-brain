@@ -56,4 +56,4 @@ When you need to apply for credit, a job, or rent an apartment, you can temporar
 - `finance/raw/credit-freeze.md`
 
 ## Related
-- [[README]] — Finance wiki home
+- [README](README.md) — Finance wiki home

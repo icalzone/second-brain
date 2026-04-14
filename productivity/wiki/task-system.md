@@ -72,7 +72,7 @@ Inbox → Backlog (no pressure)
 Shortcuts may: **capture, tag, link, template**  
 Shortcuts may not: **auto-prioritize, auto-schedule, move Backlog → Tasks without you**
 
-See [[apple-shortcuts-recipes]] for concrete recipes.
+See [apple-shortcuts-recipes](apple-shortcuts-recipes.md) for concrete recipes.
 
 > If a shortcut makes you feel managed instead of supported, delete it.
 
@@ -97,5 +97,5 @@ The task system is for **execution**. The Second Brain (this repo) is for **thin
 - `productivity/raw/task-system-CHEATSHEET.md` — One-Page Cheat Sheet
 
 ## Related
-- [[apple-shortcuts-recipes]] — Shortcut recipes for this system
-- [[README]] — Productivity wiki home
+- [apple-shortcuts-recipes](apple-shortcuts-recipes.md) — Shortcut recipes for this system
+- [README](README.md) — Productivity wiki home

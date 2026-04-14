@@ -50,6 +50,6 @@ Minimum recommendation: **7 days** (one day per park). To hike more and feel rel
 - [The Ultimate Utah National Parks Road Trip](https://tripmemos.com/utah-national-parks-road-trip/) — Traveling Anne (Jan 2024)
 
 ## Related
-- [[national-park-road-trips]] — US national parks road trip overview
-- [[national-park-timing]] — Best months for each park
-- [[README]] — Travel wiki home
+- [national-park-road-trips](national-park-road-trips.md) — US national parks road trip overview
+- [national-park-timing](national-park-timing.md) — Best months for each park
+- [README](README.md) — Travel wiki home

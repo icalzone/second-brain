@@ -135,6 +135,6 @@ Automated approach for auditing large Optimizely content sites. See `development
 - `development/raw/Automated Page Audit for Large Content Sites in Optimizely/`
 
 ## Related
-- [[csharp-razor]] — Razor views used in Optimizely templates
-- [[docker]] — Docker for local Optimizely development
-- [[README]] — Development wiki home
+- [csharp-razor](csharp-razor.md) — Razor views used in Optimizely templates
+- [docker](docker.md) — Docker for local Optimizely development
+- [README](README.md) — Development wiki home

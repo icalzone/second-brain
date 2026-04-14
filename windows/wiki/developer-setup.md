@@ -97,7 +97,7 @@ Install from [code.visualstudio.com](https://code.visualstudio.com/). Key extens
 
 ## Docker
 
-See [[../development/wiki/docker]] for Docker fundamentals. Installation options:
+See [docker](../../development/wiki/docker.md) for Docker fundamentals. Installation options:
 - **Option 1:** Docker Desktop for Windows (GUI + CLI)
 - **Option 2:** Install Docker CLI directly inside WSL2
 
@@ -132,5 +132,5 @@ VS Code extensions: Python, Pylance, Jupyter
 - `windows/raw/developer-install.md` — Windows Web Developer Setup Guide (2026)
 
 ## Related
-- [[work-setup]] — Work machine configuration
-- [[README]] — Windows wiki home
+- [work-setup](work-setup.md) — Work machine configuration
+- [README](README.md) — Windows wiki home

@@ -36,17 +36,17 @@ The United States offers countless road trip routes through its national parks �
 ## Planning Tips
 
 - **America's national parks require advance reservations** at many popular parks — research before you go
-- **RV travel:** See [[rv-national-parks]] for the best parks suited to RV camping
-- **Photography:** The best parks for stunning photography are covered in [[national-park-photography]]
-- **Timing:** See [[national-park-timing]] for the best months for each park by season and crowd level
+- **RV travel:** See [rv-national-parks](rv-national-parks.md) for the best parks suited to RV camping
+- **Photography:** The best parks for stunning photography are covered in [national-park-photography](national-park-photography.md)
+- **Timing:** See [national-park-timing](national-park-timing.md) for the best months for each park by season and crowd level
 
 ## Sources
 - [Top 10 Best National Park Road Trips in the USA](https://www.travel-experience-live.com/greatest-national-park-road-trips-usa/) — Bram Reusen (Feb 2023)
 
 ## Related
-- [[utah-national-parks]] — Full itinerary for the Mighty Five loop
-- [[texas-national-parks]] — Texas-specific road trip
-- [[great-smoky-mountains]] — Deep dive on the Smokies
-- [[yellowstone]] — One-day itinerary guide
-- [[national-park-timing]] — Best months to visit
-- [[README]] — Travel wiki home
+- [utah-national-parks](utah-national-parks.md) — Full itinerary for the Mighty Five loop
+- [texas-national-parks](texas-national-parks.md) — Texas-specific road trip
+- [great-smoky-mountains](great-smoky-mountains.md) — Deep dive on the Smokies
+- [yellowstone](yellowstone.md) — One-day itinerary guide
+- [national-park-timing](national-park-timing.md) — Best months to visit
+- [README](README.md) — Travel wiki home

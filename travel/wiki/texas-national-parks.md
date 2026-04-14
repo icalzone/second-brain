@@ -45,6 +45,6 @@ Texas offers a remarkable variety of national parks and historic sites, from vas
 - [The Ultimate Texas National Parks Road Trip](https://tripmemos.com/texas-national-parks-road-trip/) — Maria Mikaella Maglangit (Mar 2024)
 
 ## Related
-- [[national-park-road-trips]] — US national parks road trip overview
-- [[national-park-timing]] — Best months to visit
-- [[README]] — Travel wiki home
+- [national-park-road-trips](national-park-road-trips.md) — US national parks road trip overview
+- [national-park-timing](national-park-timing.md) — Best months to visit
+- [README](README.md) — Travel wiki home

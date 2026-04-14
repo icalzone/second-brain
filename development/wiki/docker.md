@@ -108,5 +108,5 @@ docker volume prune         # remove unused volumes
 - `development/raw/How to Create Docker Image From a Container/` *(folder — see raw for details)*
 
 ## Related
-- [[windows/wiki/developer-setup]] — Docker installation on Windows (Docker Desktop vs. WSL2)
-- [[README]] — Development wiki home
+- [windows/developer-setup](../../windows/wiki/developer-setup.md) — Docker installation on Windows (Docker Desktop vs. WSL2)
+- [README](README.md) — Development wiki home
