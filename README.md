@@ -7,6 +7,18 @@ This repository is a **plain‑text, AI‑assisted second brain**.
 - VS Code as the primary viewer
 - AI used to organize, summarize, and connect knowledge
 
+## Setup Notes (Cross‑Platform)
+
+This template is intentionally cross‑platform (Windows, macOS, Linux).
+
+- Setup instructions avoid Bash‑only features (like `{}` brace expansion)
+- PowerShell users should **not** use Unix‑specific syntax
+- If you ever need to recreate the folder structure, use:
+  - `scripts/setup.ps1` on Windows
+  - `scripts/setup.sh` on macOS/Linux
+
+If a command fails due to shell syntax, defer to the setup scripts.
+
 ## Core Principles
 
 - Capture first, organize later

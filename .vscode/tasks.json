@@ -5,28 +5,33 @@
       "label": "Second Brain: Ingest Raw",
       "type": "shell",
       "command": "cat meta/prompts-ingest.md",
-      "problemMatcher": [],
-      "presentation": {
-        "reveal": "always"
-      }
+      "presentation": { "reveal": "always" }
+    },
+    {
+      "label": "Second Brain: Generate Weekly Summary",
+      "type": "shell",
+      "command": "echo \"Create or update a weekly synthesis note summarizing major insights from recent wiki changes.\"",
+      "presentation": { "reveal": "always" }
+    },
+    {
+      "label": "Second Brain: Weekly Synthesis (Ingest → Summary)",
+      "dependsOn": [
+        "Second Brain: Ingest Raw",
+        "Second Brain: Generate Weekly Summary"
+      ],
+      "dependsOrder": "sequence"
     },
     {
       "label": "Second Brain: Query Wiki",
       "type": "shell",
       "command": "cat meta/prompts-query.md",
-      "problemMatcher": [],
-      "presentation": {
-        "reveal": "always"
-      }
+      "presentation": { "reveal": "always" }
     },
     {
       "label": "Second Brain: Lint",
       "type": "shell",
       "command": "cat meta/prompts-lint.md",
-      "problemMatcher": [],
-      "presentation": {
-        "reveal": "always"
-      }
+      "presentation": { "reveal": "always" }
     }
   ]
 }
