@@ -1,66 +1,31 @@
 # Second Brain
 
-A personal, multi-topic knowledge base designed to grow with whatever I'm learning or exploring. Topics live as top-level folders and can be added at any time.
+This repository is a **plain‑text, AI‑assisted second brain**.
 
-## Topics
+- Markdown files
+- Git as the source of truth
+- VS Code as the primary viewer
+- AI used to organize, summarize, and connect knowledge
 
-| Folder | Topic | Wiki |
-|---|---|---|
-| [windows/](windows/) | Windows 11 installs & configuration | [windows/wiki/README.md](windows/wiki/README.md) |
-| [development/](development/) | Web development, SwiftUI, C#, .NET, Docker, testing, tools | [development/wiki/README.md](development/wiki/README.md) |
-| [swiftui/](swiftui/) | SwiftUI & iOS development | [swiftui/wiki/README.md](swiftui/wiki/README.md) |
-| [travel/](travel/) | U.S. national park road trips, RV travel, photography parks | [travel/wiki/README.md](travel/wiki/README.md) |
-| [photography/](photography/) | Smartphone photography techniques, settings, apps | [photography/wiki/README.md](photography/wiki/README.md) |
-| [productivity/](productivity/) | Task management system, Apple Shortcuts automation | [productivity/wiki/README.md](productivity/wiki/README.md) |
-| [apple/](apple/) | iPhones, Mac, iOS shortcuts | *(wiki coming soon)* |
-| [finance/](finance/) | Personal finance notes and tools | [finance/wiki/README.md](finance/wiki/README.md) |
+## Core Principles
 
-## How It's Organized
+- Capture first, organize later
+- Raw inputs are never deleted
+- AI maintains structure, not authorship
+- Humans stay in control
 
-Each topic folder contains:
-- **raw/** — Unprocessed source material (scraped pages, notes, pastes). Never modify these files.
-- **wiki/** — Organized wiki maintained by AI. Each major concept gets its own `.md` file.
-- **outputs/** — Generated reports, answers, briefings, and analyses.
+## Folder Overview
 
-## Wiki Conventions
+- `raw/` – inbox (no structure, no guilt)
+- `wiki/` – structured knowledge base
+- `outputs/` – answers, briefs, research
+- `meta/` – rules, prompts, and workflows
 
-- Every topic gets its own `.md` file in `wiki/`
-- Every wiki file starts with a one-paragraph summary
-- Related topics are linked using `[[topic-name]]` format
-- Each `wiki/` folder has a `README.md` listing all articles
+## Using this as a Template
 
-## Wiki Highlights
+1. Click “Use this template” on GitHub
+2. Name the repo (e.g. `second-brain`, `project-omax-brain`)
+3. Clone locally
+4. Start capturing in `/raw`
 
-### Development
-- [[development/wiki/javascript]] — JS optimization, error types, fetch patterns, Builder pattern
-- [[development/wiki/docker]] — Docker CLI cheat sheet
-- [[development/wiki/optimizely-cms]] — ContentArea, catalog, SQL, Azure Blobs
-- [[development/wiki/testing]] — UI testing types, Playwright automation
-- [[development/wiki/power-platform]] — Power Automate filter queries, Level Up God Mode
-
-### SwiftUI
-- [[swiftui/wiki/viewmodifier]] — The ViewModifier pattern for iOS 26 Liquid Glass UI
-
-### Travel
-- [[travel/wiki/utah-national-parks]] — The Mighty Five road trip
-- [[travel/wiki/great-smoky-mountains]] — Experiences, waterfalls, and timing
-- [[travel/wiki/yellowstone]] — One-day Southern Loop itinerary
-- [[travel/wiki/national-park-photography]] — 9 most scenic parks for photography
-
-### Productivity
-- [[productivity/wiki/task-system]] — Calm task system (Apple Reminders + Second Brain)
-- [[productivity/wiki/apple-shortcuts-recipes]] — Shortcut recipes for capture automation
-
-### Photography
-- [[photography/wiki/smartphone-photography]] — Camera setup, settings, composition, apps
-
-### Windows
-- [[windows/wiki/developer-setup]] — Full Windows 11 dev environment guide
-- [[windows/wiki/work-setup]] — Corporate machine setup checklist
-
-## Adding a New Topic
-
-1. Create `{topic}/raw/`, `{topic}/wiki/`, `{topic}/outputs/`
-2. Drop source material into `{topic}/raw/`
-3. Add a row to the table above
-4. Run the compile prompt: *"Read everything in raw/. Compile a wiki in wiki/ following the rules in CLAUDE.md."*
+This repo is designed for **AI‑assisted knowledge curation** using plain Markdown.

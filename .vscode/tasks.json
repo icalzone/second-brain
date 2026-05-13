@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Second Brain: Ingest Raw",
+      "type": "shell",
+      "command": "cat meta/prompts-ingest.md",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always"
+      }
+    },
+    {
+      "label": "Second Brain: Query Wiki",
+      "type": "shell",
+      "command": "cat meta/prompts-query.md",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always"
+      }
+    },
+    {
+      "label": "Second Brain: Lint",
+      "type": "shell",
+      "command": "cat meta/prompts-lint.md",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always"
+      }
+    }
+  ]
+}
