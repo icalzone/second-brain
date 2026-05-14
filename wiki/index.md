@@ -1,7 +1,27 @@
 # Knowledge Index
 
 ## Concepts
-- (AI maintains)
+
+### Personal
+- [National Parks Trip Planning](concepts/national-parks-trip-planning.md) — Road trips, RV travel, Great Smoky Mountains, Utah Mighty Five, Yellowstone, seasonal timing, photography
+
+### Work — Optimizely / CMS
+- [Optimizely CMS Patterns](concepts/optimizely-cms-patterns.md) — ContentArea operations, catalog migration, blob download, SQL debugging, App Insights spike analysis, automated audit
+
+### Work — Web & JavaScript
+- [JavaScript Patterns](concepts/javascript-patterns.md) — Builder pattern, fetch patterns, error types, performance optimization, progressive form validation
+- [.NET & ASP.NET Patterns](concepts/dotnet-patterns.md) — Razor syntax, FontAwesome tag helper, SwiftUI ViewModifier
+- [Website Images Guide](concepts/web-images-guide.md) — Aspect ratios, file formats, SEO, alt tags, performance guidelines
+
+### Work — Infrastructure & Testing
+- [Docker Operations](concepts/docker-operations.md) — Restart policy, creating images from containers
+- [Playwright Testing](concepts/playwright-testing.md) — Fixtures, stable locators, assertions, parallelization, UI testing types
+
+### Work — Microsoft Platform
+- [Power Platform](concepts/power-platform.md) — Power Automate OData filter queries, Dynamics 365 Level Up / God Mode
+
+### Cross-domain
+- [AI Prompting](concepts/ai-prompting.md) — Weather summary prompts, SDLC engineering prompts, web design prompts
 
 ## Projects
 - (AI maintains)
