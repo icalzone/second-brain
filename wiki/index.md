@@ -29,6 +29,7 @@
 ## Systems
 - [Windows Developer Environment](systems/windows-dev-environment.md) — WSL 2, Zsh, NVM, VS Code, Docker setup guide (2026)
 - [Work Machine Setup](systems/work-machine-setup.md) — Work computer software and peripheral checklist (Hypertherm context)
+- [Local LLM Server](systems/local-llm-server.md) — Mac mini M4 Pro home server for running 70B models; Ollama + Open WebUI + Tailscale
 - [Calm Task System](systems/calm-task-system.md) — Low-friction personal productivity using Apple Reminders + Second Brain
 - [Edge Workspace System](systems/edge-workspace-system.md) — Naming and color conventions for Microsoft Edge Workspaces
 
